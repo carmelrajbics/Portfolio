@@ -94,7 +94,7 @@ p {
     font-size: 1.2em;
     text-align: center;
     font-weight: bold;
-    border-radius: 25px;
+    border-radius: 30px;
     margin: 2em 0;
 }
 
@@ -125,19 +125,20 @@ p {
     #avatar {
         border-radius: 50%;
         background: #fff;
-        width: 50px;
-        height: 50px;
+        width: 75px;
+        height: 75px;
         margin: 2em auto 1em auto;
     }
 
     figcaption {
         text-align: center;
         color: #000;
+        margin-top: 0;
     }
 
     ul {
         display: block;
-        margin-top: 2em;
+        margin-top: 2.6em;
         position: relative !important;
         background: none !important;
         width: 100% !important;
